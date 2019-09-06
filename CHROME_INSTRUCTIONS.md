@@ -7,7 +7,7 @@
 <br><br>
 # Como instalar
 
-1. [Faça o download da versão 2.0.1 da extensão](https://github.com/daltonmenezes/linketheme/releases/download/v1.0.0/linketheme-v1.0.0.zip).
+1. [Faça o download da versão 1.0.0 da extensão](https://github.com/daltonmenezes/linketheme/releases/download/v1.0.0/linketheme-v1.0.0.zip).
 2. Descompacte o arquivo baixado.
 2. No navegador, digite __chrome://extensions__ na barra de endereço e pressione enter. Em seguida, habilite o __Modo do desenvolvedor__ no canto superior direito da tela.
 3. O botão __Carregar sem compactação__ aparecerá no canto superior esquerdo. Clique nele e selecione a pasta que descompactou. Pronto, a extensão está ativada.
