@@ -1,0 +1,15 @@
+{
+  "name": "LinkeTheme",
+  "description": "An eye-catching cleaner theme extension for LinkedIn",
+  "version": "1.0.0",
+  "homepage_url": "https://github.com/daltonmenezes/linketheme",
+  "manifest_version": 2,
+  "content_scripts": [{
+    "matches": ["*://www.linkedin.com/*"],
+    "css": ["css/theme.css"],
+    "run_at": "document_start"
+  }],
+  "permissions": [
+    "*://www.linkedin.com/*"
+  ]
+}
