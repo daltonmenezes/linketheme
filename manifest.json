@@ -11,5 +11,18 @@
   }],
   "permissions": [
     "*://www.linkedin.com/*"
-  ]
+  ],
+  "developer": {
+    "name": "daltonmenezes"
+  },
+  "icons": {
+    "48": "icons/48.png", 
+    "96": "icons/96.png"
+  },
+  "page_action": {
+    "default_icon": {
+      "48": "icons/48.png", 
+      "96": "icons/96.png"
+    }
+  }  
 }
