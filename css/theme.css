@@ -1,0 +1,102 @@
+:root,
+body,
+html { 
+  background-color: #ffffff !important;
+}
+
+.Elevation-2dp,
+.profile-rail-card__member-photo,
+.nav-settings__member-photo,
+.pv-recent-activity-top-card__member-photo,
+.pe-top-card-form__photo-wrapper,
+.nt-segment.container,
+.pv-recent-activity-detail__header-container.mb4,
+.jobs-tracker-header,
+.mn-left-rail__top-module,
+.discover-entity-card,
+.zen-nav,
+.artdeco-card,
+.jobs-box,
+.container-with-shadow,
+.nt-settings-summary,
+.right-rail .ad-banner-container,
+.pds-ge-entry-card__card,
+.Elevation-0dp,
+.artdeco-container-card,
+.pv-top-card-section__photo-wrapper,
+.follows-recommendation-card.container.ember-view,
+.feed-follow-nav,
+#mynetwork.extended .two-column-with-left-rail .left-rail-container {
+  box-shadow: none !important
+}
+
+.nav-item__profile-member-photo.nav-item__icon,
+.feed-right-rail,
+.feed-right-rail__container,
+.nt-card--in-segment {
+  border: none !important
+}
+
+.pv-dashboard-section,
+.artdeco-container-card,
+.pv-top-card-section__photo-wrapper {
+  background-color: #ffffff !important
+}
+
+input[type=text],
+textarea,
+select {
+  border: 1px solid rgba(187, 187, 187, 0.6) !important;
+}
+
+a {
+  outline: none !important;
+}
+
+.nav-item__link--underline:after { 
+  border-bottom: 2px solid #5fa8ce !important;
+}
+
+#extended-nav { 
+  background-color: #1b3544 !important;
+}
+
+.nav-item--inbug { 
+  height: auto !important;
+}
+
+.nav-item__title {
+  display: none !important;
+}
+
+.nav-main-container .nav-item__icon { 
+  top: 5px !important;
+}
+
+.nav-item__title-container { 
+  margin: 6px 0 0 -4px !important;
+}
+
+.ad-banner-container.is-header-zone {
+  visibility: hidden !important
+}
+
+.container, .pv-recent-activity-top-card { 
+  box-shadow: 0 0 20px 1px rgba(0,0,0,.10) !important
+}
+
+.feed-right-rail__top-module { 
+  border-bottom: none !important
+}
+
+.profile-rail-card__actor-meta {
+  border-bottom: 1px solid rgba(0,0,0,.1) !important
+}
+
+.share-box__trigger {
+  border-right: none !important
+}
+
+.share-box__article-cta {
+  border-top: none !important
+}
