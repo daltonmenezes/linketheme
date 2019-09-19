@@ -29,10 +29,10 @@
 
 <img src=".github/banner.png" alt="screenshot of the theme"/>
 
-# Extension
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/linketheme/)
-- [Chrome](https://github.com/daltonmenezes/linketheme/blob/master/CHROME_INSTRUCTIONS.md)
-- [Opera](https://addons.opera.com/en/extensions/details/linketheme)
+# Installation
+<a href="https://addons.mozilla.org/en-US/firefox/addon/linketheme/"><img src="https://i.imgur.com/imhunnJ.png" alt="firefox icon" width="50"/></a>
+<a href="https://github.com/daltonmenezes/linketheme/blob/master/CHROME_INSTRUCTIONS.md"><img src="https://i.imgur.com/lMue0Hb.png" alt="chrome icon"  width="50"/></a>
+<a href="https://addons.opera.com/en/extensions/details/linketheme"><img src="https://i.imgur.com/t9OCThZ.png" alt="opera icon" width="50"/></a>
 
 # License
 [MIT License](https://github.com/daltonmenezes/linketheme/blob/master/LICENSE)
